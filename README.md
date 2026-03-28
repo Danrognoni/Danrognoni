@@ -4,8 +4,7 @@ I am a Full Stack Developer and a programming graduate from UTN Mar del Plata, w
 
 ### 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Danrognoni&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Danrognoni&theme=react&hide_border=true&background=0D1117" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Danrognoni&theme=react&hide_border=true&background=0D1117" width="50%" alt="GitHub Streak Stats" />
 </div>
 
 ### 🎸 Mis pasiones
